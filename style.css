@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left:10%;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: black;
+    padding:0px;
+    margin:0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: whitesmoke;
+    text-decoration : solid;
+    padding: 15px;
+    display: block;
+    text-align : center;
+    padding-left: 40%;
+}
+.navbar a:hover{
+    background-color: rgb(62, 62, 62);
+    animation-name: initial;
+}
+.navbar li{
+    float: left;
+    padding-left: 15%;
+}
+h2{
+    text-align: center;
+}
+.logo a{
+    text-align: center;
+    list-style-type: none;
+    text-decoration: solid;
+    color:black;
+}
+.container img{
+width: 30%;
+padding: 5px; ;
+}
+.container img{
+    height: 20%;
+}
+.logo1{
+    align-items: center;
+    padding-left: 37%;
+}
+.logo{
+       align-items: center;
+    padding-left: 28%;
+}
